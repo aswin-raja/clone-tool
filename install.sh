@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL where the binary is hosted (change this to your actual URL)
-BINARY_URL="https://github.com/your-username/your-repo/releases/download/v1.0.0/clone_tool"
+BINARY_URL="https://github.com/aswin-raja/clone-tool/blob/main/tool"
 
 # Directory to install the binary
 INSTALL_DIR="/usr/local/bin"
